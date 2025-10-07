@@ -1,0 +1,14 @@
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/bin/Debug/net9.0/Vending_machine
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/bin/Debug/net9.0/Vending_machine.deps.json
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/bin/Debug/net9.0/Vending_machine.runtimeconfig.json
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/bin/Debug/net9.0/Vending_machine.dll
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/bin/Debug/net9.0/Vending_machine.pdb
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/obj/Debug/net9.0/Vending_machine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/obj/Debug/net9.0/Vending_machine.AssemblyInfoInputs.cache
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/obj/Debug/net9.0/Vending_machine.AssemblyInfo.cs
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/obj/Debug/net9.0/Vending_machine.csproj.CoreCompileInputs.cache
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/obj/Debug/net9.0/Vending_machine.dll
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/obj/Debug/net9.0/refint/Vending_machine.dll
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/obj/Debug/net9.0/Vending_machine.pdb
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/obj/Debug/net9.0/Vending_machine.genruntimeconfig.cache
+/Users/gagarin_78/OOP_labs/OOP_labs_ITMO/lab_1/Vending_machine/obj/Debug/net9.0/ref/Vending_machine.dll
